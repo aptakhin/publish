@@ -1,0 +1,1 @@
+C:\Users\AlexPtakhin\Documents\GitHub\publish
