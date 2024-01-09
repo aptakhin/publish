@@ -189,7 +189,7 @@ async def test_code_verify_successful(
     client: TestClient,
     valid_code_verify_request: CodeVerifyRequest,
 ):
-	pass
+    pass
 ```
 
 And we run it like this:
