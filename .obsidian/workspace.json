@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "434e547f9eda7eb5",
+            "id": "da2de9c61a7e0eaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 200
   },
   "right": {
     "id": "5cf57ca05578dfcc",
@@ -146,17 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "434e547f9eda7eb5",
+  "active": "da2de9c61a7e0eaa",
   "lastOpenFiles": [
     "notes/2024/2024-01-08-unit-tests-en.md",
     "notes/2024/2024-01-09-functional-tests-en.md",
-    "notes/2024/2024-01-09-functional-tests-en.md",
+    "README.md",
+    "notes/2024",
+    "notes",
     "articles/tests-en.md",
     "notes/tests-en.md",
     "2024-01-08.md",
-    "notes/2024",
-    "notes",
-    "README.md",
     "talks/2023-PyConSWE-Sustainable-python-performance-en.md",
     "talks/2023-PyConFR-Web-performance-101-uncovering-the-root-causes-en.md",
     "talks/2023-Purpose-what-I-learned-stepping-down-as-team-lead-twice-en.md",

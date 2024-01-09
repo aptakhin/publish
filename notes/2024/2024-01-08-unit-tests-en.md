@@ -79,6 +79,7 @@ The second argument can be useful if we get assert fail and want to see the actu
 assert response.json() == {'ok': True}, response.text
 ```
 
+`async` for this test is not really required, but it's for more general case. Also remember you will need plugin `pytest-asyncio` to support this. 
 # References
 - SAS-link explanation https://learn.microsoft.com/en-us/azure/storage/common/storage-sas-overview
 - Design by contract https://en.wikipedia.org/wiki/Design_by_contract
