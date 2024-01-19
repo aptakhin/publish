@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2024/2024-01-09-functional-tests-en.md",
+                "file": "notes/2024/2024-01-19-on-git-merges-en.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d918515f4f9880e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2024/2024-01-19-on-code-tidyness-en.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 422.5
   },
   "right": {
     "id": "5cf57ca05578dfcc",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2024/2024-01-09-functional-tests-en.md",
+                "file": "notes/2024/2024-01-19-on-code-tidyness-en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2024/2024-01-09-functional-tests-en.md",
+                "file": "notes/2024/2024-01-19-on-code-tidyness-en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/2024/2024-01-09-functional-tests-en.md"
+                "file": "notes/2024/2024-01-19-on-code-tidyness-en.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2de9c61a7e0eaa",
+  "active": "85ffc8ddb5052ceb",
   "lastOpenFiles": [
-    "notes/2024/2024-01-08-unit-tests-en.md",
+    "notes/2024/2024-01-19-on-git-merges-en.md",
+    "notes/2024/2024-01-19-on-code-tidyness-en.md",
     "notes/2024/2024-01-09-functional-tests-en.md",
+    "notes/2024/2024-01-08-unit-tests-en.md",
     "README.md",
     "notes/2024",
     "notes",
