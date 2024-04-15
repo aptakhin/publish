@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2024/2024-01-19-on-git-merges-en.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d918515f4f9880e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/2024/2024-04-15-azure-api.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mess",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 658.5
   },
   "right": {
     "id": "5cf57ca05578dfcc",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2024/2024-04-15-azure-api.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2024/2024-04-15-azure-api.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/2024/2024-04-15-azure-api.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,30 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d918515f4f9880e1",
+  "active": "da2de9c61a7e0eaa",
   "lastOpenFiles": [
-    "notes/2024/2024-01-19-on-git-merges-en.md",
+    "talks/2021-(ru)-TechRec-How-not-to-hire-developer.md",
+    "talks/2023-(ru)-Podlodka-Python-observability.md",
+    "talks/2023-PyConSWE-Sustainable-python-performance.md",
+    "talks/2023-PyConFR-Web-performance-101-uncovering-the-root-causes.md",
+    "talks/2023-Purpose-what-I-learned-stepping-down-as-team-lead-twice.md",
+    "notes/2024/2024-01-19-on-git-merges.md",
+    "summary/2021-pimenov-kanban-visualization.md",
+    "summary/2020-codereview-discussion.md",
+    "articles/hiring.md",
+    "articles/less-complexity-and-fast-feedback-teams.md",
+    "articles/reflections-on-much-work-and-lack-of-knowledge.md",
+    "notes/2024/2024-01-08-unit-tests.md",
+    "notes/2024/2024-01-09-functional-tests.md",
+    "notes/2024/2024-01-19-on-code-tidyness.md",
     "notes/2024/2024-04-15-azure-api.md",
-    "notes/2024/2024-01-19-on-code-tidyness-en.md",
-    "notes/2024/2024-01-09-functional-tests-en.md",
-    "notes/2024/2024-01-08-unit-tests-en.md",
     "README.md",
     "notes/2024",
     "notes",
     "articles/tests-en.md",
     "notes/tests-en.md",
     "2024-01-08.md",
-    "talks/2023-PyConSWE-Sustainable-python-performance-en.md",
-    "talks/2023-PyConFR-Web-performance-101-uncovering-the-root-causes-en.md",
-    "talks/2023-Purpose-what-I-learned-stepping-down-as-team-lead-twice-en.md",
-    "talks/2023-Podlodka-Python-observability.md",
-    "talks/2021-TechRec-How-not-to-hire-developer.md",
     "talks",
-    "summary/2020-codereview-discussion.md",
     "summary",
-    "articles/reflections-on-much-work-and-lack-of-knowledge-en.md",
-    "articles/less-complexity-and-fast-feedback-teams-en.md",
-    "articles/hiring-en.md",
     "articles",
     "articles/Less-complexity-and-fast-feedback-teams-en.md",
     "articles/Hiring-en.md",

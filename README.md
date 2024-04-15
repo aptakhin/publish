@@ -1,2 +1,3 @@
-[Articles](/articles)
-[Talks](./talks)
+* [Articles](/articles)
+* [Talks](./talks)
+* [Short notes](./notes)
