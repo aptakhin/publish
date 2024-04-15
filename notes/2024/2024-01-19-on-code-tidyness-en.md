@@ -35,3 +35,5 @@ https://github.com/sasanjac/flake8-cohesion
 https://pypi.org/project/flake8-cognitive-complexity/
 https://pypi.org/project/flake8-expression-complexity/
 https://github.com/Miserlou/JonesComplexity
+
+Nice explanation about some differences: https://github.com/astral-sh/ruff/issues/2418#issuecomment-1561661962

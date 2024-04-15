@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2024/2024-01-19-on-code-tidyness-en.md",
+                "file": "notes/2024/2024-04-15-azure-api.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#mess",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2024/2024-01-19-on-code-tidyness-en.md",
+                "file": "notes/2024/2024-04-15-azure-api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2024/2024-01-19-on-code-tidyness-en.md",
+                "file": "notes/2024/2024-04-15-azure-api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/2024/2024-01-19-on-code-tidyness-en.md"
+                "file": "notes/2024/2024-04-15-azure-api.md"
               }
             }
           }
@@ -159,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85ffc8ddb5052ceb",
+  "active": "d918515f4f9880e1",
   "lastOpenFiles": [
     "notes/2024/2024-01-19-on-git-merges-en.md",
+    "notes/2024/2024-04-15-azure-api.md",
     "notes/2024/2024-01-19-on-code-tidyness-en.md",
     "notes/2024/2024-01-09-functional-tests-en.md",
     "notes/2024/2024-01-08-unit-tests-en.md",
