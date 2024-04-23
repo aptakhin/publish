@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/2024/2024-04-22-ci-and-query-store.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/2024/2024-04-22-ci-and-query-store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/2024/2024-04-22-ci-and-query-store.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/2024/2024-04-22-ci-and-query-store.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "da2de9c61a7e0eaa",
   "lastOpenFiles": [
+    "README.md",
+    "notes/2024/2024-04-22-ci-and-query-store.md",
     "talks/2021-(ru)-TechRec-How-not-to-hire-developer.md",
     "talks/2023-(ru)-Podlodka-Python-observability.md",
     "talks/2023-PyConSWE-Sustainable-python-performance.md",
@@ -163,7 +165,6 @@
     "notes/2024/2024-01-09-functional-tests.md",
     "notes/2024/2024-01-19-on-code-tidyness.md",
     "notes/2024/2024-04-15-azure-api.md",
-    "README.md",
     "notes/2024",
     "notes",
     "articles/tests-en.md",
